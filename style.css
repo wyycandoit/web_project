@@ -184,7 +184,7 @@ div.banner ul li {
 
 div.banner ul li a {
     font-weight: 400;
-    font-size: 16px;
+    font-size: 18px;
     color: #fff;
 
 }
@@ -194,7 +194,7 @@ div.banner ul li a span {
     display: inline-block;
     height: 50px;
     line-height: 50px;
-    font-size: 5px;
+    font-size: 12px;
 }
 
 div.banner ul li a span.gt {
